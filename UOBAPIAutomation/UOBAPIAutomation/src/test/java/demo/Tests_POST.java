@@ -44,7 +44,7 @@ public class Tests_POST {
 	public void readALlforme() throws Exception{
 		 mydata= RedTestCasesFromExcel.read();
 		//accessToken= RestAssuredOAuth2.getAccessToken();
-
+		System.out.println("test");
 
 	}
 
